@@ -1,7 +1,7 @@
 # flower classifier
 This project uses convolutional neural network to train an image classifier that is able to identify 102 different flower species with 92% testing accuracy. This image classifier can be used to identify flower species from new images.
 
-##Data used
+## Data used
 [Flower Dataset](http://www.robots.ox.ac.uk/~vgg/data/flowers/102/index.html). This dataset contains images of 102 different flower species with lables. These images have different sizes.
 
 ## how to run the command line application
